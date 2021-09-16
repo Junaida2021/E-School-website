@@ -1,6 +1,5 @@
 .color-add{
     background-color: #F0FFF0;
-    ;
 }
 .padding-add{
     padding: 5px 130px;
@@ -21,7 +20,7 @@
 
 .red{
     color: red;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .carousel-item{
@@ -30,6 +29,9 @@
 span{
     color: #21B573;
 }
+.step2{
+    margin-top: 50px;
+}
 .card-area{
     padding: 10px 10px;
 }
@@ -37,7 +39,20 @@ span{
     width: 66px;
     height: 85px;
 }
-.box-1{
-    background-color: green;
+p{
+    color: grey;
+}
+.card{
+    padding: 35px 55px;
+    margin: 20px 0;
+    border-radius: 4%;
+    border: none;
+}
+.color-1{
+    background-color: #F0FFF0;
+}
+
+.style{
+    box-shadow: 0 0 80px #DDD;
 }
 

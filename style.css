@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .color-add{
     background-color: #F0FFF0;
 }
@@ -29,9 +34,7 @@
 span{
     color: #21B573;
 }
-.step2{
-    margin-top: 50px;
-}
+
 .card-area{
     padding: 10px 10px;
 }
@@ -42,6 +45,9 @@ span{
 p{
     color: grey;
 }
+.carousel{
+    margin-top: 20px
+}
 .card{
     padding: 35px 55px;
     margin: 20px 0;
@@ -50,9 +56,102 @@ p{
 }
 .color-1{
     background-color: #F0FFF0;
+    margin-top: 50px;
 }
 
 .style{
     box-shadow: 0 0 80px #DDD;
+    margin-top: 50px;
 }
+
+.h1-style{
+    text-align: center;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+h5{
+    font-weight: 700;
+}
+
+.last-pic{
+    width: 8%;
+    height: 5%;
+}
+
+.p{
+    font-size: 15px;
+}
+
+.small{
+    float: left;
+}
+
+.card-footer{
+    padding: 0%;
+    background-color: white;
+    border-top: 0;
+}
+.man{
+    width: 35%;
+    margin-left: 186px;
+}
+.margin{
+    margin: 90px 0;
+    margin-right: 100px;
+}
+.container{
+    min-width: 1170px;
+    margin: auto;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+
+.footer{
+    background-color: black;
+    padding: 70px 0;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+  
+    margin: 10px;
+    float: left;
+}
+ul li a{
+    text-decoration: none;
+    align-items: center;
+}
+.footer-col h4{
+    font-size: 18px;
+    color: white;
+    margin-bottom: 30px;
+    margin-left: 25px;
+}
+
+.style-2nd{
+    margin-left: 700px;
+    margin-top:-200px;
+}
+.style-3rd{
+    margin-left: 1058px;
+    margin-top: -196px;
+}
+
+.style-4rd{
+    font-size: 20px;
+    width: auto;
+    margin-top: 230px;
+    margin-left: 510px;
+}
+
+
+
+
+
 
